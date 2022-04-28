@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AleAskarra
-- 👀 I’m interested in computer science
+- 👀 I’m interested in programming -->> game development -->> machine learning -->> web development 
 - 🌱 I’m currently learning javascript/java
 - 💞️ I’m looking to collaborate on programming project like videogame, application for mobile/pc
 - 📫 How to reach me: on my github and on my personal email
